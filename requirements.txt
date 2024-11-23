@@ -1,0 +1,5 @@
+streamlit
+huggingface-hub
+python-dotenv
+aiohttp
+asyncio
